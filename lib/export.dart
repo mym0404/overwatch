@@ -27,8 +27,6 @@ export 'feature/common/util/local_storage.dart';
 export 'feature/common/util/snack_bar_extension.dart';
 export 'feature/common/util/style_extension.dart';
 export 'service/di/singleton.dart';
-export 'service/l10n/generated/l10n.dart';
-export 'service/l10n/util/l10n_util.dart';
 export 'service/router/route_extension.dart';
 
 typedef VC = void Function();
